@@ -1,9 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace Lutrix
 {
-    class Program
-    {
+    class Lutrix
+    { 
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
